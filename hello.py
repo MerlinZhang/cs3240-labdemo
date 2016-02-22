@@ -1,4 +1,4 @@
+from helper import greeting
 print("hello")
 
-def gretting(msg):
-  print(msg)
+greeting("hello from the helper method!")
